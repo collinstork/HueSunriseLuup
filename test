@@ -1,0 +1,5 @@
+
+--[[
+luup.inet.wget("http://192.168.1.110:80/jsonrpc?request={%22jsonrpc%22:%222.0%22,%22method%22:%22GUI.ShowNotification%22,%22params%22:{%22title%22:%22Motion%20Detected%22,%22message%22:%22Front%20Door%22},%22id%22:1}",10,"xbmc","xbmc")
+]]--
+
